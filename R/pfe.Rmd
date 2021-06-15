@@ -1,0 +1,47 @@
+---
+title: "R PFE"
+output: html_notebook
+---
+```{r}
+rm(list = ls(all = TRUE))
+```
+Chargement des packages
+```{r}
+library(GGally)
+```
+
+Chargement les fichiers surlesquels on va travailler.
+```{r}
+taskFile <- read.csv2("story_task.csv")
+task <- subset(taskFile, select = c("title", "phase", "type", "state", "progress", "nv", "emp", "project", "duration"))
+profileFile <- read.csv2("profile.csv")
+profile <- subset(profileFile, select = c("ï..id_p", "XP", "salaire"))
+```
+On merge les deux fichiers.
+```{r}
+file <- merge(task, profile, by.x = "emp", by.y = "ï..id_p")
+file$emp = as.factor(file$emp)
+file$phase = as.factor(file$phase)
+file$type = as.factor(file$type)
+file$state = as.factor(file$state)
+file$nv = as.factor(file$nv)
+file$project = as.factor(file$project)
+summary(file)
+View(file)
+```
+Maintenant, on va essayer de trouver les relations entre les variables (y ~ x) de la dataset en utilisant les fonctions du package ggplot et corrplot
+```{r}
+ggpairs(file)
+corrplot(cor(file))
+```
+
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
