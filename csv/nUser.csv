@@ -1,0 +1,14 @@
+﻿id_u;username;first_name;last_name;birhtdate;phone;email;CIN;password;is_staff;is_active;is_superuser;last_login;date_joined;is_admin;profile;admin
+1;ibrahimbgr;ibrahim;bougarroua;01/01/2000;600000000;ibrahimbgr@gmail.com;S1010;password;F;F;F;09/06/2021;09/06/2016;T;1;1
+2;ezzoubeirasr;ezzoubeir;elasraoui;01/01/2000;600000000;ezzoubeirasr@gmail.com;S1011;password;F;F;F;09/06/2021;09/06/2016;T;2;2
+3;mouadrah;mouad;rahhaoui;01/01/2000;600000000;mouadrah@gmail.com;S1012;password;F;F;F;09/06/2021;09/06/2016;T;3;3
+4;ahmedth;ahmed;tahiri;01/01/2000;600000000;ahmedth@gmail.com;S1013;password;F;F;F;09/06/2021;09/06/2016;F;4;1
+5;hassansm;hassan;sami;01/01/2000;600000000;hassansm@gmail.com;S1014;password;F;F;F;09/06/2021;09/06/2016;F;5;2
+6;aminemk;amine;mekour;01/01/2000;600000000;aminemk@gmail.com;S1015;password;F;F;F;09/06/2021;09/06/2016;F;6;1
+7;salimkld;salim;khaldi;01/01/2000;600000000;salimkld@gmail.com;S1016;password;F;F;F;09/06/2021;09/06/2016;F;7;1
+8;mouradslm;mourad;salmi;01/01/2000;600000000;mouradslm@gmail.com;S1017;password;F;F;F;09/06/2021;09/06/2016;F;8;2
+9;imadyzd;imad;yazidi;01/01/2000;600000000;imadyzd@gmail.com;S1018;password;F;F;F;09/06/2021;09/06/2016;F;9;2
+10;azizdm;aziz;demri;01/01/2000;600000000;azizdm@gmail.com;S1019;password;F;F;F;09/06/2021;09/06/2016;F;10;3
+11;mohamednr;mohamed;niri;01/01/2000;600000000;mohamednr@gmail.com;S1020;password;F;F;F;09/06/2021;09/06/2016;F;11;3
+12;jamalrcd;jamal;rachdi;01/01/2000;600000000;jamalrcd@gmail.com;S1021;password;F;F;F;09/06/2021;09/06/2016;F;12;3
+13;aliabd;ali;abdou;01/01/2000;600000000;aliabd@gmail.com;S1022;password;F;F;F;09/06/2021;09/06/2016;F;13;3
