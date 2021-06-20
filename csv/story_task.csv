@@ -11,7 +11,7 @@
 10;landingPage;D;landingPagelandingPagelandingPage;St;D;100;3;17/06/2016;18/06/2016;17/06/2016;17/06/2016 12:30;17/06/2016 15:30;5;9;1;10800
 11;aboutUsPage;D;aboutUsPageaboutUsPageaboutUsPage;St;D;100;3;18/06/2016;19/06/2016;18/06/2016;18/06/2016 08:00;18/06/2016 11:00;5;10;1;10800
 12;contactUsPage;D;contactUsPagecontactUsPagecontactUsPage;St;D;100;3;18/06/2016;19/06/2016;18/06/2016;18/06/2016 11:00;18/06/2016 14:00;5;11;1;10800
-13;contactUSForm;T;contactUsFormcontactUsFormcontactUsForm;T;D;100;1;18/06/2016;19/06/2016;18/06/2016;18/06/2016 14:00;18/06/2016 14:30;4;12;1;1800
+13;contactUSForm;T;contactUsFormcontactUsFormcontactUsForm;T;D;100;1;18/06/2016;19/06/2016;18/06/2016;18/06/2016 14:00;18/06/2016 14:30;10;12;1;1800
 14;addBlogPostPage;D;addBlogPostPageaddBlogPostPage;T;D;100;2;18/06/2016;19/06/2016;18/06/2016;18/06/2016 14:30;18/06/2016 16:00;7;13;1;5400
 15;modifyBlogPost;D;modifyBlogPostmodifyBlogPost;T;D;100;2;19/06/2016;20/06/2016;19/06/2016;19/06/2016 08:00;19/06/2016 10:00;7;14;1;7200
 16;deleteBlogPost;D;deleteBlogPostPagedeleteBlogPost;T;D;100;2;19/06/2016;20/06/2016;19/06/2016;19/06/2016 10:00;19/06/2016 12:00;7;15;1;7200
@@ -30,7 +30,7 @@
 29;addBlogProfilePage;D;addBlogProfilePageaddBlogProfilePage;T;D;100;1;21/06/2016;22/06/2016;21/06/2016;21/06/2016 09:00;21/06/2016 10:00;6;28;1;3600
 30;modifyBlogProfile;D;modifyBlogProfilemodifyBlogProfile;T;D;100;1;21/06/2016;22/06/2016;21/06/2016;21/06/2016 10:00;21/06/2016 11:00;6;29;1;3600
 31;deleteBlogProfile;D;deleteBlogProfilePagedeleteBlogProfile;T;D;100;1;21/06/2016;22/06/2016;21/06/2016;21/06/2016 11:00;21/06/2016 12:00;6;30;1;3600
-32;blogPostTest;T;blogPostTestblogPostTestblogPostTest;St;D;100;4;21/06/2016;22/06/2016;21/06/2016;21/06/2016 12:00;21/06/2016 16:00;1;31;1;14400
+32;blogPostTest;T;blogPostTestblogPostTestblogPostTest;St;D;100;4;21/06/2016;22/06/2016;21/06/2016;21/06/2016 12:00;21/06/2016 16:00;10;31;1;14400
 33;cahier de charge;In;cahier de chargecahier de chargecahier de charge;St;D;100;5;15/06/2016;16/06/2016;15/06/2016;15/06/2016 08:00;15/06/2016 16:00;2;0;2;28800
 34;templateDesign;In;templateDesigntemplateDesigntemplateDesign;St;D;100;5;16/06/2016;17/06/2016;16/06/2016;16/06/2016 08:00;16/06/2016 16:00;2;33;2;28800
 35;file Setup;D;file Setupfile Setupfile Setupfile Setup;T;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 08:00;17/06/2016 08:30;5;34;2;1800
@@ -76,5 +76,20 @@
 75;pausingTheGame;D;pausingTheGamepausingTheGame;T;D;100;1;04/10/2016;05/10/2016;04/10/2016;04/10/2016 11:00;04/10/2016 12:00;8;74;3;3600
 76;winScreen;D;winScreenwinScreen;T;D;100;1;04/10/2016;05/10/2016;04/10/2016;04/10/2016 12:00;04/10/2016 13:00;8;75;3;3600
 77;sounds;D;soundssounds;St;D;100;1;04/10/2016;05/10/2016;04/10/2016;04/10/2016 13:00;04/10/2016 14:00;9;76;3;3600
-78;TestTheGame;T;testingTheGame;T;D;100;2;04/10/2016;05/10/2016;04/10/2016;04/10/2016 14:00;04/10/2016 16:00;3;77;3;7200
+78;TestTheGame;T;testingTheGame;T;D;100;2;04/10/2016;05/10/2016;04/10/2016;04/10/2016 14:00;04/10/2016 16:00;10;77;3;7200
 79;documanentation;Do;documentationOfTheGame;St;D;100;5;05/10/2016;06/10/2016;05/10/2016;05/10/2016 08:00;05/10/2016 16:00;3;78;3;28800
+80;cahier de charge;In;cahier de chargecahier de chargecahier de charge;St;D;100;5;10/10/2016;11/10/2016;10/10/2016;10/10/2016 08:00;10/10/2016 16:00;3;0;4;28800
+81;framework;In;createBasicFramework;St;D;100;2;11/10/2016;12/10/2016;11/10/2016;11/10/2016 08:00;11/10/2016 10:00;3;80;4;7200
+82;addingAssets;D;adding assets to the scene;St;D;100;3;11/10/2016;12/10/2016;11/10/2016;11/10/2016 10:00;11/10/2016 13:00;8;81;4;5400
+83;addingPhysics;D;adding physics and colliders to objects;St;D;100;3;11/10/2016;12/10/2016;11/10/2016;11/10/2016 13:00;11/10/2016 16:00;8;82;4;5400
+84;usingPrefabs;D;using prefabs;St;D;100;1;12/10/2016;12/10/2016;12/10/2016;12/10/2016 08:00;12/10/2016 09:00;9;83;4;3600
+85;fixAssets;D;fix disappearing assets;T;D;100;1;12/10/2016;12/10/2016;12/10/2016;12/10/2016 09:00;12/10/2016 10:00;9;84;4;3600
+86;sortLayers;D;sorting layers;T;D;100;1;12/10/2016;12/10/2016;12/10/2016;12/10/2016 10:00;12/10/2016 11:00;9;85;4;3600
+87;organiseAssets;D;organising and grouping assets in the hierarchy;T;D;100;1;12/10/2016;12/10/2016;12/10/2016;12/10/2016 11:00;12/10/2016 12:00;9;86;4;3600
+88;scriptingCollision;D;scripting and collision detection;T;D;100;2;12/10/2016;12/10/2016;12/10/2016;12/10/2016 12:00;12/10/2016 14:00;9;87;4;7200
+89;movingPlayer;D;moving the player;T;D;100;1;12/10/2016;12/10/2016;12/10/2016;12/10/2016 14:00;12/10/2016 15:00;9;88;4;3600
+90;jumpPlayer;D;making the player jump;T;D;100;1;12/10/2016;12/10/2016;12/10/2016;12/10/2016 15:00;12/10/2016 16:00;9;89;4;3600
+91;changingPlayerSprite;D;changing the player sprite and setting to fixed angle;St;D;100;3;13/10/2016;13/10/2016;13/10/2016;13/10/2016 08:00;13/10/2016 11:00;8;90;4;5400
+92;createAnimation;D;create animation for the player sprite;St;D;100;4;13/10/2016;13/10/2016;13/10/2016;13/10/2016 11:00;13/10/2016 15:00;8;91;4;14400
+93;setUpPlayerAnim;D;setting up the player animation controller;St;D;100;1;13/10/2016;13/10/2016;13/10/2016;13/10/2016 15:00;13/10/2016 16:00;8;92;4;3600
+94;flipPlayer;D;fliping the player sprite ;T;D;100;2;14/10/2016;14/10/2016;14/10/2016;14/10/2016 08:00;14/10/2016 08:30;8;93;4;1800
