@@ -1,144 +1,170 @@
 ﻿id_st;title;phase;desc;type;state;progress;nv;start_after;end_before;create_date;start;end;emp;start_after_tasks;project;duration
-1;cahier de charge;In;cahier de chargecahier de chargecahier de charge;St;D;100;5;15/06/2016;16/06/2016;15/06/2016;15/06/2016 08:00;15/06/2016 16:00;1;0;1;28800
-2;templateDesign;In;templateDesigntemplateDesigntemplateDesign;St;D;100;5;16/06/2016;17/06/2016;16/06/2016;16/06/2016 08:00;16/06/2016 16:00;1;1;1;28800
-3;file Setup;D;file Setupfile Setupfile Setupfile Setup;T;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 08:00;17/06/2016 08:30;4;2;1;1800
-4;headerDesign;D;headerDesignheaderDesignheaderDesignheaderDesign;T;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 08:30;17/06/2016 09:30;1;3;1;3600
-5;headerHTML;D;headerHTMLheaderHTMLheaderHTMLheaderHTML;T;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 09:30;17/06/2016 10:00;4;4;1;1800
-6;headerCSS;D;headerCSSheaderCSSheaderCSSheaderCSS;T;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 10:00;17/06/2016 10:30;4;5;1;1800
-7;footerDesign;D;footerDesignfooterDesignfooterDesignfooterDesign;T;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 10:30;17/06/2016 11:30;1;6;1;3600
-8;footerHTML;D;footerHTMLfooterHTMLfooterHTMLfooterHTML;T;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 11:30;17/06/2016 12:00;4;7;1;1800
-9;footerCSS;D;footerCSSfooterCSSfooterCSSfooterCSS;T;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 12:00;17/06/2016 12:30;4;8;1;1800
-10;landingPage;D;landingPagelandingPagelandingPage;St;D;100;3;17/06/2016;18/06/2016;17/06/2016;17/06/2016 12:30;17/06/2016 15:30;5;9;1;10800
-11;aboutUsPage;D;aboutUsPageaboutUsPageaboutUsPage;St;D;100;3;18/06/2016;19/06/2016;18/06/2016;18/06/2016 08:00;18/06/2016 11:00;5;10;1;10800
-12;contactUsPage;D;contactUsPagecontactUsPagecontactUsPage;St;D;100;3;18/06/2016;19/06/2016;18/06/2016;18/06/2016 11:00;18/06/2016 14:00;5;11;1;10800
-13;contactUSForm;T;contactUsFormcontactUsFormcontactUsForm;T;D;100;1;18/06/2016;19/06/2016;18/06/2016;18/06/2016 14:00;18/06/2016 14:30;10;12;1;1800
-14;addBlogPostPage;D;addBlogPostPageaddBlogPostPage;T;D;100;2;18/06/2016;19/06/2016;18/06/2016;18/06/2016 14:30;18/06/2016 16:00;7;13;1;5400
-15;modifyBlogPost;D;modifyBlogPostmodifyBlogPost;T;D;100;2;19/06/2016;20/06/2016;19/06/2016;19/06/2016 08:00;19/06/2016 10:00;7;14;1;7200
-16;deleteBlogPost;D;deleteBlogPostPagedeleteBlogPost;T;D;100;2;19/06/2016;20/06/2016;19/06/2016;19/06/2016 10:00;19/06/2016 12:00;7;15;1;7200
-17;orderBlogPost;D;ordereBlogPostPageorderBlogPost;T;D;100;2;19/06/2016;20/06/2016;19/06/2016;19/06/2016 12:00;19/06/2016 14:00;7;16;1;7200
-18;userLogin;D;userLoginuserLoginuserLogin;T;D;100;1;19/06/2016;20/06/2016;19/06/2016;19/06/2016 14:00;19/06/2016 14:30;6;17;1;1800
-19;addBlogCategoryPage;D;addBlogCategoryPageaddBlogCategoryPage;T;D;100;2;19/06/2016;20/06/2016;19/06/2016;19/06/2016 14:30;19/06/2016 16:00;11;18;1;5400
-20;modifyBlogCategory;D;modifyBlogCategorymodifyBlogCategory;T;D;100;2;20/06/2016;21/06/2016;20/06/2016;20/06/2016 08:00;20/06/2016 10:00;11;19;1;7200
-21;deleteBlogCategory;D;deleteBlogCategoryPagedeleteBlogCategory;T;D;100;2;20/06/2016;21/06/2016;20/06/2016;20/06/2016 10:00;20/06/2016 12:00;11;20;1;7200
-22;orderBlogCategory;D;ordereBlogCategoryPageorderBlogCategory;T;D;100;2;20/06/2016;21/06/2016;20/06/2016;20/06/2016 12:00;20/06/2016 14:00;11;21;1;7200
-23;slugifyCategoryPage;D;slugifyCategoryPageslugifyCategoryPage;T;D;100;1;20/06/2016;21/06/2016;20/06/2016;20/06/2016 14:00;20/06/2016 14:30;6;22;1;1800
-24;createLikeButton;D;createLikeButtoncreateLikeButton;T;D;100;1;20/06/2016;21/06/2016;20/06/2016;20/06/2016 14:30;20/06/2016 15:00;6;23;1;1800
-25;createUnlikeButton;D;createUnlikeButtoncreateUnlikeButton;T;D;100;1;20/06/2016;21/06/2016;20/06/2016;20/06/2016 15:00;20/06/2016 15:30;6;24;1;1800
-26;addBlogComment;D;addBlogCommentaddBlogComment;T;D;100;1;20/06/2016;21/06/2016;20/06/2016;20/06/2016 15:30;20/06/2016 16:00;6;25;1;1800
-27;modifyBlogComment;D;modifyBlogCommentmodifyBlogComment;T;D;100;1;21/06/2016;22/06/2016;21/06/2016;21/06/2016 08:00;21/06/2016 08:30;6;26;1;1800
-28;deleteBlogComment;D;deleteBlogCommentPagedeleteBlogComment;T;D;100;1;21/06/2016;22/06/2016;21/06/2016;21/06/2016 08:30;21/06/2016 09:00;6;27;1;1800
-29;addBlogProfilePage;D;addBlogProfilePageaddBlogProfilePage;T;D;100;1;21/06/2016;22/06/2016;21/06/2016;21/06/2016 09:00;21/06/2016 10:00;6;28;1;3600
-30;modifyBlogProfile;D;modifyBlogProfilemodifyBlogProfile;T;D;100;1;21/06/2016;22/06/2016;21/06/2016;21/06/2016 10:00;21/06/2016 11:00;6;29;1;3600
-31;deleteBlogProfile;D;deleteBlogProfilePagedeleteBlogProfile;T;D;100;1;21/06/2016;22/06/2016;21/06/2016;21/06/2016 11:00;21/06/2016 12:00;6;30;1;3600
-32;blogPostTest;T;blogPostTestblogPostTestblogPostTest;St;D;100;4;21/06/2016;22/06/2016;21/06/2016;21/06/2016 12:00;21/06/2016 16:00;10;31;1;14400
-33;cahier de charge;In;cahier de chargecahier de chargecahier de charge;St;D;100;5;15/06/2016;16/06/2016;15/06/2016;15/06/2016 08:00;15/06/2016 16:00;2;0;2;28800
-34;templateDesign;In;templateDesigntemplateDesigntemplateDesign;St;D;100;5;16/06/2016;17/06/2016;16/06/2016;16/06/2016 08:00;16/06/2016 16:00;2;33;2;28800
-35;file Setup;D;file Setupfile Setupfile Setupfile Setup;T;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 08:00;17/06/2016 08:30;5;34;2;1800
-36;headerDesign;D;headerDesignheaderDesignheaderDesignheaderDesign;T;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 08:30;17/06/2016 09:30;2;35;2;3600
-37;headerHTML;D;headerHTMLheaderHTMLheaderHTMLheaderHTML;T;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 09:30;17/06/2016 10:00;5;36;2;1800
-38;headerCSS;D;headerCSSheaderCSSheaderCSSheaderCSS;T;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 10:00;17/06/2016 10:30;5;37;2;1800
-39;footerDesign;D;footerDesignfooterDesignfooterDesignfooterDesign;T;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 10:30;17/06/2016 11:30;2;38;2;3600
-40;footerHTML;D;footerHTMLfooterHTMLfooterHTMLfooterHTML;T;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 11:30;17/06/2016 12:00;5;39;2;1800
-41;footerCSS;D;footerCSSfooterCSSfooterCSSfooterCSS;T;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 12:00;17/06/2016 12:30;5;40;2;1800
-42;categoriesSection;D;categoriesSectioncategoriesSectioncategoriesSection;St;D;100;4;17/06/2016;18/06/2016;17/06/2016;17/06/2016 12:30;17/06/2016 16:00;5;41;2;12600
-43;addingProducts;D;addingProductsaddingProductsaddingProductsaddingProducts;T;D;100;1;18/06/2016;19/06/2016;18/06/2016;18/06/2016 08:00;18/06/2016 08:30;7;42;2;3600
-44;viewProducts;D;viewProductsviewProductsviewProducts;T;D;100;1;18/06/2016;19/06/2016;18/06/2016;18/06/2016 08:30;19/06/2016 09:00;7;43;2;3600
-45;modifyProducts;D;modifyProductsmodifyProductsmodifyProducts;T;D;100;1;18/06/2016;19/06/2016;18/06/2016;18/06/2016 09:00;19/06/2016 09:30;7;44;2;3600
-46;deleteProducts;D;deleteProductsdeleteProductsdeleteProducts;T;D;100;1;18/06/2016;19/06/2016;18/06/2016;18/06/2016 09:30;19/06/2016 10:00;7;45;2;3600
-47;testimonialSection;D;testimonialSectiontestimonialSectiontestimonialSection;T;D;100;2;18/06/2016;19/06/2016;18/06/2016;18/06/2016 10:00;19/06/2016 12:00;6;46;2;7200
-48;signUpPageDesign;D;signUpPageDesignsignUpPageDesignsignUpPageDesign;T;D;100;1;18/06/2016;19/06/2016;18/06/2016;18/06/2016 12:00;18/06/2016 13:00;4;47;2;3600
-49;signUpForm;D;signUpFormsignUpFormsignUpFormsignUpForm;T;D;100;1;18/06/2016;19/06/2016;18/06/2016;18/06/2016 13:00;18/06/2016 14:00;4;48;2;3600
-50;signInPageDesign;D;signInPageDesignsignInPageDesignsignInPageDesign;T;D;100;1;18/06/2016;19/06/2016;18/06/2016;18/06/2016 14:00;18/06/2016 15:00;4;49;2;3600
-51;signInForm;D;signInFormsignInFormsignInForm;T;D;100;1;18/06/2016;19/06/2016;18/06/2016;18/06/2016 15:00;18/06/2016 16:00;4;50;2;3600
-52;shop Setup;D;shop Setupshop Setupshop Setupshop Setup;St;D;100;3;19/06/2016;20/06/2016;19/06/2016;19/06/2016 08:00;19/06/2016 11:00;5;51;2;10800
-53;addToCart;D;addToCartaddToCartaddToCartaddToCart;T;D;100;2;19/06/2016;20/06/2016;19/06/2016;19/06/2016 11:00;19/06/2016 13:00;7;52;2;7200
-54;removeFromCart;D;removeFromCartremoveFromCartremoveFromCart;T;D;100;1;19/06/2016;20/06/2016;19/06/2016;19/06/2016 13:00;19/06/2016 13:30;7;53;2;1800
-55;wishList;D;wishListwishListwishList;St;D;100;3;19/06/2016;20/06/2016;19/06/2016;19/06/2016 13:30;19/06/2016 16:00;7;54;2;9000
-56;customerOrder;D;customerOrdercustomerOrder;St;D;100;3;20/06/2016;21/06/2016;20/06/2016;20/06/2016 08:00;20/06/2016 11:00;5;55;2;10800
-57;paymentSetting;D;paymentSettingpaymentSettingpaymentSetting;St;D;100;3;20/06/2016;21/06/2016;20/06/2016;20/06/2016 11:00;20/06/2016 14:00;7;56;2;10800
-58;adminLoginLogout;D;adminLoginLogoutadminLoginLogout;St;D;100;2;20/06/2016;21/06/2016;20/06/2016;20/06/2016 14:00;20/06/2016 16:00;7;57;2;7200
-59;adminDashboard;D;adminDashboardadminDashboard;St;D;100;3;21/06/2016;22/06/2016;21/06/2016;21/06/2016 08:00;21/06/2016 11:00;7;58;2;10800
-60;cahier de charge;In;cahier de chargecahier de chargecahier de charge;St;D;100;5;01/10/2016;02/10/2016;01/10/2016;01/10/2016 08:00;01/10/2016 16:00;3;0;3;28800
-61;framework;In;createBasicFramework;St;D;100;2;02/10/2016;03/10/2016;02/10/2016;02/10/2016 08:00;02/10/2016 10:00;3;60;3;7200
-62;event;D;createEvents;T;D;100;1;02/10/2016;03/10/2016;02/10/2016;02/10/2016 10:00;02/10/2016 11:00;8;61;3;3600
-63;quitEvent;D;quitEventHandling;T;D;100;1;02/10/2016;03/10/2016;02/10/2016;02/10/2016 11:00;02/10/2016 11:30;8;62;3;1800
-64;colors;D;defineColors;T;D;100;1;02/10/2016;03/10/2016;02/10/2016;02/10/2016 11:30;02/10/2016 12:00;8;63;3;1800
-65;drawingObject;D;drawingObjectdrawingObject;T;D;100;2;02/10/2016;03/10/2016;02/10/2016;02/10/2016 12:00;02/10/2016 14:00;9;64;3;7200
-66;movingObject;D;movingObjectmovingObject;T;D;100;2;02/10/2016;03/10/2016;02/10/2016;02/10/2016 14:00;02/10/2016 16:00;9;65;3;7200
-67;addText;D;addingTextToTheScreen;St;D;100;3;03/10/2016;04/10/2016;03/10/2016;03/10/2016 08:00;03/10/2016 11:00;9;66;3;10800
-68;gameOver;D;gameOverFunctionality;T;D;100;2;03/10/2016;04/10/2016;03/10/2016;03/10/2016 11:00;03/10/2016 13:00;9;67;3;7200
-69;drawingSnakeBody;D;DrawingSnakeBody;T;D;100;1;03/10/2016;04/10/2016;03/10/2016;03/10/2016 13:00;03/10/2016 14:00;9;68;3;3600
-70;drawingSnakeHead;D;DrawingSnakeHead;T;D;100;1;03/10/2016;04/10/2016;03/10/2016;03/10/2016 14:00;03/10/2016 15:00;9;69;3;3600
-71;attachingSnake;D;attachingSnakeHeadToBody;T;D;100;1;03/10/2016;04/10/2016;03/10/2016;03/10/2016 15:00;03/10/2016 16:00;9;70;3;3600
-72;startScreen;D;startScreenstartScreen;T;D;100;2;04/10/2016;05/10/2016;04/10/2016;04/10/2016 08:00;04/10/2016 10:00;8;71;3;7200
-73;gameIcon;D;createGameIcon;T;D;100;1;04/10/2016;05/10/2016;04/10/2016;04/10/2016 10:00;04/10/2016 10:30;8;72;3;1800
-74;score;D;addingScore;T;D;100;1;04/10/2016;05/10/2016;04/10/2016;04/10/2016 10:30;04/10/2016 11:00;8;73;3;1800
-75;pausingTheGame;D;pausingTheGamepausingTheGame;T;D;100;1;04/10/2016;05/10/2016;04/10/2016;04/10/2016 11:00;04/10/2016 12:00;8;74;3;3600
-76;winScreen;D;winScreenwinScreen;T;D;100;1;04/10/2016;05/10/2016;04/10/2016;04/10/2016 12:00;04/10/2016 13:00;8;75;3;3600
-77;sounds;D;soundssounds;St;D;100;1;04/10/2016;05/10/2016;04/10/2016;04/10/2016 13:00;04/10/2016 14:00;9;76;3;3600
-78;TestTheGame;T;testingTheGame;T;D;100;2;04/10/2016;05/10/2016;04/10/2016;04/10/2016 14:00;04/10/2016 16:00;10;77;3;7200
-79;documanentation;Do;documentationOfTheGame;St;D;100;5;05/10/2016;06/10/2016;05/10/2016;05/10/2016 08:00;05/10/2016 16:00;3;78;3;28800
-80;cahier de charge;In;cahier de chargecahier de chargecahier de charge;St;D;100;5;10/10/2016;11/10/2016;10/10/2016;10/10/2016 08:00;10/10/2016 16:00;3;0;4;28800
-81;framework;In;createBasicFramework;St;D;100;2;11/10/2016;12/10/2016;11/10/2016;11/10/2016 08:00;11/10/2016 10:00;3;80;4;7200
-82;addingAssets;D;adding assets to the scene;St;D;100;3;11/10/2016;12/10/2016;11/10/2016;11/10/2016 10:00;11/10/2016 13:00;8;81;4;10800
-83;addingPhysics;D;adding physics and colliders to objects;St;D;100;3;11/10/2016;12/10/2016;11/10/2016;11/10/2016 13:00;11/10/2016 16:00;8;82;4;10800
-84;usingPrefabs;D;using prefabs;St;D;100;1;12/10/2016;12/10/2016;12/10/2016;12/10/2016 08:00;12/10/2016 09:00;9;83;4;3600
-85;fixAssets;D;fix disappearing assets;T;D;100;1;12/10/2016;12/10/2016;12/10/2016;12/10/2016 09:00;12/10/2016 10:00;9;84;4;3600
-86;sortLayers;D;sorting layers;T;D;100;1;12/10/2016;12/10/2016;12/10/2016;12/10/2016 10:00;12/10/2016 11:00;9;85;4;3600
-87;organiseAssets;D;organising and grouping assets in the hierarchy;T;D;100;1;12/10/2016;12/10/2016;12/10/2016;12/10/2016 11:00;12/10/2016 12:00;9;86;4;3600
-88;scriptingCollision;D;scripting and collision detection;T;D;100;2;12/10/2016;12/10/2016;12/10/2016;12/10/2016 12:00;12/10/2016 14:00;9;87;4;7200
-89;movingPlayer;D;moving the player;T;D;100;1;12/10/2016;12/10/2016;12/10/2016;12/10/2016 14:00;12/10/2016 15:00;9;88;4;3600
-90;jumpPlayer;D;making the player jump;T;D;100;1;12/10/2016;12/10/2016;12/10/2016;12/10/2016 15:00;12/10/2016 16:00;9;89;4;3600
-91;changingPlayerSprite;D;changing the player sprite and setting to fixed angle;St;D;100;3;13/10/2016;13/10/2016;13/10/2016;13/10/2016 08:00;13/10/2016 11:00;8;90;4;10800
-92;createAnimation;D;create animation for the player sprite;St;D;100;4;13/10/2016;13/10/2016;13/10/2016;13/10/2016 11:00;13/10/2016 15:00;8;91;4;14400
-93;setUpPlayerAnim;D;setting up the player animation controller;St;D;100;1;13/10/2016;13/10/2016;13/10/2016;13/10/2016 15:00;13/10/2016 16:00;8;92;4;3600
-94;flipPlayer;D;fliping the player sprite ;T;D;100;1;14/10/2016;14/10/2016;14/10/2016;14/10/2016 08:00;14/10/2016 08:30;8;93;4;1800
-95;cameraFollowsPlayer;D;make the camera follow the player;St;D;100;2;14/10/2016;14/10/2016;14/10/2016;14/10/2016 08:30;14/10/2016 10:30;8;94;4;7200
-96;developPlayersMovement;D;developing the player's movement;St;D;100;3;14/10/2016;14/10/2016;14/10/2016;14/10/2016 10:30;14/10/2016 14:00;8;95;4;12600
-97;setUpDetector;D;setting up a fall detector;T;D;100;1;14/10/2016;14/10/2016;14/10/2016;14/10/2016 14:00;14/10/2016 15:00;9;96;4;3600
-98;addCheckpoints;D;adding checkpoints;T;D;100;1;14/10/2016;14/10/2016;14/10/2016;14/10/2016 15:00;14/10/2016 16:00;9;97;4;3600
-99;respawnPlayer;D;respawning the player;T;D;100;1;15/10/2016;15/10/2016;15/10/2016;15/10/2016 08:00;15/10/2016 09:00;9;98;4;3600
-100;respawnDelay;D;adding a respawn delay;T;D;100;1;15/10/2016;15/10/2016;15/10/2016;15/10/2016 09:00;15/10/2016 10:00;9;99;4;3600
-101;setUpLevel;D;setting up the level manager;St;D;100;2;15/10/2016;15/10/2016;15/10/2016;15/10/2016 10:00;15/10/2016 12:00;9;100;4;7200
-102;particleSystem;D;adding a particle system;St;D;100;2;15/10/2016;15/10/2016;15/10/2016;15/10/2016 12:00;15/10/2016 14:00;8;101;4;7200
-103;collectiblesAndScroring;D;adding collectibles and scoring;St;D;100;2;15/10/2016;15/10/2016;15/10/2016;15/10/2016 14:00;15/10/2016 16:00;8;102;4;7200
-104;displayScore;D;adding a UI to display the score;St;D;100;1;16/10/2016;16/10/2016;16/10/2016;16/10/2016 08:00;16/10/2016 09:30;8;103;4;5400
-105;testingApp;T;testingTheGame;St;D;100;5;16/10/2016;16/10/2016;16/10/2016;16/10/2016 09:30;16/10/2016 16:00;10;104;4;23400
-106;documentation;Do;documentationOfTheGame;St;D;100;5;16/10/2016;16/10/2016;16/10/2016;16/10/2016 09:30;16/10/2016 16:00;9;105;4;23400
-107;cahier de charge;In;cahier de chargecahier de chargecahier de charge;St;D;100;5;25/10/2016;25/10/2016;25/10/2016;25/10/2016 08:00;25/10/2016 16:00;1;0;5;28800
-108;framework;In;createBasicFramework;St;D;100;2;26/10/2016;26/10/2016;26/10/2016;26/10/2016 08:00;26/10/2016 16:00;1;107;5;28800
-109;createObjects;D;creating objects;St;D;100;3;27/10/2016;27/10/2016;27/10/2016;27/10/2016 08:00;27/10/2016 11:00;8;108;5;10800
-110;movingObjects;D;moving objects;St;D;100;3;27/10/2016;27/10/2016;27/10/2016;27/10/2016 11:00;27/10/2016 14:00;8;109;5;10800
-111;cameraFollowsObjects;D;camera follows objects;St;D;100;2;27/10/2016;27/10/2016;27/10/2016;27/10/2016 14:00;27/10/2016 16:00;8;110;5;7200
-112;collision;D;collisionCollision;T;D;100;1;28/10/2016;28/10/2016;28/10/2016;28/10/2016 08:00;28/10/2016 09:00;9;111;5;3600
-113;gamePlay;D;gamePlayGamePlay;T;D;100;1;28/10/2016;28/10/2016;28/10/2016;28/10/2016 09:00;28/10/2016 10:00;9;112;5;3600
-114;score&UI;D;score and UI;T;D;100;1;28/10/2016;28/10/2016;28/10/2016;28/10/2016 10:00;28/10/2016 11:00;9;113;5;3600
-115;gameOver;D;gameOverFunctionality;T;D;100;1;28/10/2016;28/10/2016;28/10/2016;28/10/2016 11:00;28/10/2016 12:00;9;114;5;3600
-116;winningLevel;D;winningLevel;T;D;100;1;28/10/2016;28/10/2016;28/10/2016;28/10/2016 11:00;28/10/2016 12:00;9;115;5;3600
-117;finishUp;D;finishingUp;T;D;100;1;28/10/2016;28/10/2016;28/10/2016;28/10/2016 12:00;28/10/2016 13:00;9;116;5;3600
-118;smoothCamera;D;smooth camera follow;St;D;100;1;28/10/2016;28/10/2016;28/10/2016;28/10/2016 13:00;28/10/2016 14:30;9;117;5;5400
-119;lighting;D;lightingLighting;St;D;100;1;28/10/2016;28/10/2016;28/10/2016;28/10/2016 14:30;28/10/2016 16:00;9;118;5;5400
-120;inputController;D;input controller;St;D;100;2;29/10/2016;29/10/2016;29/10/2016;29/10/2016 08:00;29/10/2016 10:00;8;119;5;7200
-121;movement;D;Top Down movement;St;D;100;3;29/10/2016;29/10/2016;29/10/2016;29/10/2016 10:00;29/10/2016 13:00;8;120;5;10800
-122;shooting;D;Top Down shooting;St;D;100;3;29/10/2016;29/10/2016;29/10/2016;29/10/2016 13:00;29/10/2016 16:00;8;121;5;10800
-123;testingApp;T;testingTheGame;St;D;100;5;30/10/2016;30/10/2016;30/10/2016;30/10/2016 08:00;30/10/2016 16:00;10;122;5;28800
-124;documentation;Do;documentationOfTheGame;St;D;100;5;31/10/2016;31/10/2016;31/10/2016;31/10/2016 08:00;31/10/2016 16:00;9;123;5;28800
-125;cahier de charge;In;cahier de chargecahier de chargecahier de charge;St;D;100;5;05/11/2016;05/11/2016;05/11/2016;05/11/2016 08:00;05/11/2016 16:00;2;0;6;28800
-126;framework;In;createBasicFramework;St;D;100;2;06/11/2016;06/11/2016;06/11/2016;06/11/2016 08:00;06/11/2016 16:00;2;126;6;28800
-127;player;D;create Player;St;D;100;4;07/11/2016;07/11/2016;07/11/2016;07/11/2016 08:00;07/11/2016 12:00;12;127;6;14400
-128;playerMovement;D;player movement and animation;St;D;100;4;07/11/2016;07/11/2016;07/11/2016;07/11/2016 12:00;07/11/2016 16:00;12;128;6;14400
-129;grounds;D;designing Grounds;St;D;100;4;08/11/2016;08/11/2016;08/11/2016;08/11/2016 08:00;08/11/2016 12:00;13;129;6;14400
-130;camera;D;moving camera;St;D;100;4;08/11/2016;08/11/2016;08/11/2016;08/11/2016 12:00;08/11/2016 16:00;13;130;6;14400
-131;generate grounds;D;generating endless grounds;St;D;100;4;09/11/2016;09/11/2016;09/11/2016;09/11/2016 08:00;09/11/2016 12:00;12;131;6;14400
-132;destroy grounds;D;destroying grounds;St;D;100;2;09/11/2016;09/11/2016;09/11/2016;09/11/2016 12:00;09/11/2016 14:00;12;132;6;7200
-133;player jump;D;playerJump;St;D;100;2;09/11/2016;09/11/2016;09/11/2016;09/11/2016 14:00;09/11/2016 16:00;12;133;6;7200
-134;gaps;D;adding gaps between grounds;St;D;100;2;10/11/2016;10/11/2016;10/11/2016;10/11/2016 08:00;10/11/2016 10:00;13;134;6;7200
-135;spawningCoins;D;spawning coins;St;D;100;2;10/11/2016;10/11/2016;10/11/2016;10/11/2016 10:00;10/11/2016 12:00;13;135;6;7200
-136;pickingcoins;D;picking coins;St;D;100;2;10/11/2016;10/11/2016;10/11/2016;10/11/2016 12:00;10/11/2016 14:00;13;136;6;7200
-137;scroll background;D;scrolling background;St;D;100;2;10/11/2016;10/11/2016;10/11/2016;10/11/2016 14:00;10/11/2016 16:00;13;137;6;7200
-138;sounds;D;adding sounds;St;D;100;2;11/11/2016;11/11/2016;11/11/2016;11/11/2016 08:00;11/11/2016 10:00;12;138;6;7200
-139;score;D;score manager;St;D;100;2;11/11/2016;11/11/2016;11/11/2016;11/11/2016 10:00;11/11/2016 12:00;12;139;6;7200
-140;palyer speed;D;increasing player speed;St;D;100;2;11/11/2016;11/11/2016;11/11/2016;11/11/2016 12:00;11/11/2016 14:00;12;140;6;7200
-141;game over;D;game over;St;D;100;2;11/11/2016;11/11/2016;11/11/2016;11/11/2016 14:00;11/11/2016 16:00;12;141;6;7200
-142;testingApp;T;testingTheGame;St;D;100;5;12/11/2016;12/11/2016;12/11/2016;12/11/2016 08:00;12/11/2016 16:00;10;142;6;28800
-143;documentation;Do;documentationOfTheGame;St;D;100;5;13/11/2016;13/11/2016;13/11/2016;13/11/2016 08:00;13/11/2016 16:00;13;143;6;28800
+1;cahier de charge;In;cahier de chargecahier de chargecahier de charge;St;D;100;5;2016-06-15;2016-06-16;2016-06-15;15-06-2016 08:00;15-06-2016 16:00;1;0;1;28800
+2;templateDesign;In;templateDesigntemplateDesigntemplateDesign;St;D;100;5;2016-06-16;2016-06-17;2016-06-16;16-06-2016 08:00;16-06-2016 16:00;1;1;1;28800
+3;file Setup;D;file Setupfile Setupfile Setupfile Setup;T;D;100;1;2016-06-17;2016-06-18;2016-06-17;17-06-2016 08:00;17-06-2016 08:30;4;2;1;1800
+4;headerDesign;D;headerDesignheaderDesignheaderDesignheaderDesign;T;D;100;1;2016-06-17;2016-06-18;2016-06-17;17-06-2016 08:30;17-06-2016 09:30;1;3;1;3600
+5;headerHTML;D;headerHTMLheaderHTMLheaderHTMLheaderHTML;T;D;100;1;2016-06-17;2016-06-18;2016-06-17;17-06-2016 09:30;17-06-2016 10:00;4;4;1;1800
+6;headerCSS;D;headerCSSheaderCSSheaderCSSheaderCSS;T;D;100;1;2016-06-17;2016-06-18;2016-06-17;17-06-2016 10:00;17-06-2016 10:30;4;5;1;1800
+7;footerDesign;D;footerDesignfooterDesignfooterDesignfooterDesign;T;D;100;1;2016-06-17;2016-06-18;2016-06-17;17-06-2016 10:30;17-06-2016 11:30;1;6;1;3600
+8;footerHTML;D;footerHTMLfooterHTMLfooterHTMLfooterHTML;T;D;100;1;2016-06-17;2016-06-18;2016-06-17;17-06-2016 11:30;17-06-2016 12:00;4;7;1;1800
+9;footerCSS;D;footerCSSfooterCSSfooterCSSfooterCSS;T;D;100;1;2016-06-17;2016-06-18;2016-06-17;17-06-2016 12:00;17-06-2016 12:30;4;8;1;1800
+10;landingPage;D;landingPagelandingPagelandingPage;St;D;100;3;2016-06-17;2016-06-18;2016-06-17;17-06-2016 12:30;17-06-2016 15:30;5;9;1;10800
+11;aboutUsPage;D;aboutUsPageaboutUsPageaboutUsPage;St;D;100;3;2016-06-18;2016-06-19;2016-06-18;18-06-2016 08:00;18-06-2016 11:00;5;10;1;10800
+12;contactUsPage;D;contactUsPagecontactUsPagecontactUsPage;St;D;100;3;2016-06-18;2016-06-19;2016-06-18;18-06-2016 11:00;18-06-2016 14:00;5;11;1;10800
+13;contactUSForm;T;contactUsFormcontactUsFormcontactUsForm;T;D;100;1;2016-06-18;2016-06-19;2016-06-18;18-06-2016 14:00;18-06-2016 14:30;10;12;1;1800
+14;addBlogPostPage;D;addBlogPostPageaddBlogPostPage;T;D;100;2;2016-06-18;2016-06-19;2016-06-18;18-06-2016 14:30;18-06-2016 16:00;7;13;1;5400
+15;modifyBlogPost;D;modifyBlogPostmodifyBlogPost;T;D;100;2;2016-06-19;2016-06-20;2016-06-19;19-06-2016 08:00;19-06-2016 10:00;7;14;1;7200
+16;deleteBlogPost;D;deleteBlogPostPagedeleteBlogPost;T;D;100;2;2016-06-19;2016-06-20;2016-06-19;19-06-2016 10:00;19-06-2016 12:00;7;15;1;7200
+17;orderBlogPost;D;ordereBlogPostPageorderBlogPost;T;D;100;2;2016-06-19;2016-06-20;2016-06-19;19-06-2016 12:00;19-06-2016 14:00;7;16;1;7200
+18;userLogin;D;userLoginuserLoginuserLogin;T;D;100;1;2016-06-19;2016-06-20;2016-06-19;19-06-2016 14:00;19-06-2016 14:30;6;17;1;1800
+19;addBlogCategoryPage;D;addBlogCategoryPageaddBlogCategoryPage;T;D;100;2;2016-06-19;2016-06-20;2016-06-19;19-06-2016 14:30;19-06-2016 16:00;1;18;1;5400
+20;modifyBlogCategory;D;modifyBlogCategorymodifyBlogCategory;T;D;100;2;2016-06-20;2016-06-21;2016-06-20;20-06-2016 08:00;20-06-2016 10:00;1;19;1;7200
+21;deleteBlogCategory;D;deleteBlogCategoryPagedeleteBlogCategory;T;D;100;2;2016-06-20;2016-06-21;2016-06-20;20-06-2016 10:00;20-06-2016 12:00;1;20;1;7200
+22;orderBlogCategory;D;ordereBlogCategoryPageorderBlogCategory;T;D;100;2;2016-06-20;2016-06-21;2016-06-20;20-06-2016 12:00;20-06-2016 14:00;1;21;1;7200
+23;slugifyCategoryPage;D;slugifyCategoryPageslugifyCategoryPage;T;D;100;1;2016-06-20;2016-06-21;2016-06-20;20-06-2016 14:00;20-06-2016 14:30;8;22;1;1800
+24;createLikeButton;D;createLikeButtoncreateLikeButton;T;D;100;1;2016-06-20;2016-06-21;2016-06-20;20-06-2016 14:30;20-06-2016 15:00;8;23;1;1800
+25;createUnlikeButton;D;createUnlikeButtoncreateUnlikeButton;T;D;100;1;2016-06-20;2016-06-21;2016-06-20;20-06-2016 15:00;20-06-2016 15:30;8;24;1;1800
+26;addBlogComment;D;addBlogCommentaddBlogComment;T;D;100;1;2016-06-20;2016-06-21;2016-06-20;20-06-2016 15:30;20-06-2016 16:00;8;25;1;1800
+27;modifyBlogComment;D;modifyBlogCommentmodifyBlogComment;T;D;100;1;2016-06-21;2016-06-22;2016-06-21;21-06-2016 08:00;21-06-2016 08:30;8;26;1;1800
+28;deleteBlogComment;D;deleteBlogCommentPagedeleteBlogComment;T;D;100;1;2016-06-21;2016-06-22;2016-06-21;21-06-2016 08:30;21-06-2016 09:00;8;27;1;1800
+29;addBlogProfilePage;D;addBlogProfilePageaddBlogProfilePage;T;D;100;1;2016-06-21;2016-06-22;2016-06-21;21-06-2016 09:00;21-06-2016 10:00;8;28;1;3600
+30;modifyBlogProfile;D;modifyBlogProfilemodifyBlogProfile;T;D;100;1;2016-06-21;2016-06-22;2016-06-21;21-06-2016 10:00;21-06-2016 11:00;8;29;1;3600
+31;deleteBlogProfile;D;deleteBlogProfilePagedeleteBlogProfile;T;D;100;1;2016-06-21;2016-06-22;2016-06-21;21-06-2016 11:00;21-06-2016 12:00;8;30;1;3600
+32;blogPostTest;T;blogPostTestblogPostTestblogPostTest;St;D;100;3;2016-06-21;2016-06-22;2016-06-21;21-06-2016 12:00;21-06-2016 16:00;10;31;1;14400
+33;cahier de charge;In;cahier de chargecahier de chargecahier de charge;St;D;100;5;2016-06-15;2016-06-16;2016-06-15;15-06-2016 08:00;15-06-2016 16:00;2;0;2;28800
+34;templateDesign;In;templateDesigntemplateDesigntemplateDesign;St;D;100;5;2016-06-16;2016-06-17;2016-06-16;16-06-2016 08:00;16-06-2016 16:00;2;33;2;28800
+35;file Setup;D;file Setupfile Setupfile Setupfile Setup;T;D;100;1;2016-06-17;2016-06-18;2016-06-17;17-06-2016 08:00;17-06-2016 08:30;5;34;2;1800
+36;headerDesign;D;headerDesignheaderDesignheaderDesignheaderDesign;T;D;100;1;2016-06-17;2016-06-18;2016-06-17;17-06-2016 08:30;17-06-2016 09:30;2;35;2;3600
+37;headerHTML;D;headerHTMLheaderHTMLheaderHTMLheaderHTML;T;D;100;1;2016-06-17;2016-06-18;2016-06-17;17-06-2016 09:30;17-06-2016 10:00;5;36;2;1800
+38;headerCSS;D;headerCSSheaderCSSheaderCSSheaderCSS;T;D;100;1;2016-06-17;2016-06-18;2016-06-17;17-06-2016 10:00;17-06-2016 10:30;5;37;2;1800
+39;footerDesign;D;footerDesignfooterDesignfooterDesignfooterDesign;T;D;100;1;2016-06-17;2016-06-18;2016-06-17;17-06-2016 10:30;17-06-2016 11:30;2;38;2;3600
+40;footerHTML;D;footerHTMLfooterHTMLfooterHTMLfooterHTML;T;D;100;1;2016-06-17;2016-06-18;2016-06-17;17-06-2016 11:30;17-06-2016 12:00;5;39;2;1800
+41;footerCSS;D;footerCSSfooterCSSfooterCSSfooterCSS;T;D;100;1;2016-06-17;2016-06-18;2016-06-17;17-06-2016 12:00;17-06-2016 12:30;5;40;2;1800
+42;categoriesSection;D;categoriesSectioncategoriesSectioncategoriesSection;St;D;100;4;2016-06-17;2016-06-18;2016-06-17;17-06-2016 12:30;17-06-2016 16:00;5;41;2;12600
+43;addingProducts;D;addingProductsaddingProductsaddingProductsaddingProducts;T;D;100;1;2016-06-18;2016-06-19;2016-06-18;18-06-2016 08:00;18-06-2016 08:30;3;42;2;3600
+44;viewProducts;D;viewProductsviewProductsviewProducts;T;D;100;1;2016-06-18;2016-06-19;2016-06-18;18-06-2016 08:30;19-06-2016 09:00;3;43;2;3600
+45;modifyProducts;D;modifyProductsmodifyProductsmodifyProducts;T;D;100;1;2016-06-18;2016-06-19;2016-06-18;18-06-2016 09:00;19-06-2016 09:30;3;44;2;3600
+46;deleteProducts;D;deleteProductsdeleteProductsdeleteProducts;T;D;100;1;2016-06-18;2016-06-19;2016-06-18;18-06-2016 09:30;19-06-2016 10:00;3;45;2;3600
+47;testimonialSection;D;testimonialSectiontestimonialSectiontestimonialSection;T;D;100;2;2016-06-18;2016-06-19;2016-06-18;18-06-2016 10:00;19-06-2016 12:00;4;46;2;7200
+48;signUpPageDesign;D;signUpPageDesignsignUpPageDesignsignUpPageDesign;T;D;100;1;2016-06-18;2016-06-19;2016-06-18;18-06-2016 12:00;18-06-2016 13:00;4;47;2;3600
+49;signUpForm;D;signUpFormsignUpFormsignUpFormsignUpForm;T;D;100;1;2016-06-18;2016-06-19;2016-06-18;18-06-2016 13:00;18-06-2016 14:00;4;48;2;3600
+50;signInPageDesign;D;signInPageDesignsignInPageDesignsignInPageDesign;T;D;100;1;2016-06-18;2016-06-19;2016-06-18;18-06-2016 14:00;18-06-2016 15:00;4;49;2;3600
+51;signInForm;D;signInFormsignInFormsignInForm;T;D;100;1;2016-06-18;2016-06-19;2016-06-18;18-06-2016 15:00;18-06-2016 16:00;4;50;2;3600
+52;shop Setup;D;shop Setupshop Setupshop Setupshop Setup;St;D;100;3;2016-06-19;2016-06-20;2016-06-19;19-06-2016 08:00;19-06-2016 11:00;5;51;2;10800
+53;addToCart;D;addToCartaddToCartaddToCartaddToCart;T;D;100;2;2016-06-19;2016-06-20;2016-06-19;19-06-2016 11:00;19-06-2016 13:00;6;52;2;7200
+54;removeFromCart;D;removeFromCartremoveFromCartremoveFromCart;T;D;100;1;2016-06-19;2016-06-20;2016-06-19;19-06-2016 13:00;19-06-2016 13:30;6;53;2;1800
+55;wishList;D;wishListwishListwishList;St;D;100;2;2016-06-19;2016-06-20;2016-06-19;19-06-2016 13:30;19-06-2016 16:00;6;54;2;9000
+56;customerOrder;D;customerOrdercustomerOrder;St;D;100;2;2016-06-20;2016-06-21;2016-06-20;20-06-2016 08:00;20-06-2016 11:00;6;55;2;10800
+57;paymentSetting;D;paymentSettingpaymentSettingpaymentSetting;St;D;100;2;2016-06-20;2016-06-21;2016-06-20;20-06-2016 11:00;20-06-2016 14:00;6;56;2;10800
+58;adminLoginLogout;D;adminLoginLogoutadminLoginLogout;St;D;100;2;2016-06-20;2016-06-21;2016-06-20;20-06-2016 14:00;20-06-2016 16:00;2;57;2;7200
+59;adminDashboard;D;adminDashboardadminDashboard;St;D;100;3;2016-06-21;2016-06-22;2016-06-21;21-06-2016 08:00;21-06-2016 11:00;2;58;2;10800
+60;cahier de charge;In;cahier de chargecahier de chargecahier de charge;St;D;100;5;2016-10-01;2016-10-02;2016-10-01;01-10-2016 08:00;01-10-2016 16:00;3;0;3;28800
+61;framework;In;createBasicFramework;St;D;100;2;2016-10-02;2016-10-03;2016-10-02;02-10-2016 08:00;02-10-2016 10:00;3;60;3;7200
+62;event;D;createEvents;T;D;100;1;2016-10-02;2016-10-03;2016-10-02;02-10-2016 10:00;02-10-2016 11:00;1;61;3;3600
+63;quitEvent;D;quitEventHandling;T;D;100;1;2016-10-02;2016-10-03;2016-10-02;02-10-2016 11:00;02-10-2016 11:30;1;62;3;1800
+64;colors;D;defineColors;T;D;100;1;2016-10-02;2016-10-03;2016-10-02;02-10-2016 11:30;02-10-2016 12:00;1;63;3;1800
+65;drawingObject;D;drawingObjectdrawingObject;T;D;100;2;2016-10-02;2016-10-03;2016-10-02;02-10-2016 12:00;02-10-2016 14:00;9;64;3;7200
+66;movingObject;D;movingObjectmovingObject;T;D;100;2;2016-10-02;2016-10-03;2016-10-02;02-10-2016 14:00;02-10-2016 16:00;9;65;3;7200
+67;addText;D;addingTextToTheScreen;St;D;100;2;2016-10-03;2016-10-04;2016-10-03;03-10-2016 08:00;03-10-2016 11:00;9;66;3;10800
+68;gameOver;D;gameOverFunctionality;T;D;100;2;2016-10-03;2016-10-04;2016-10-03;03-10-2016 11:00;03-10-2016 13:00;9;67;3;7200
+69;drawingSnakeBody;D;DrawingSnakeBody;T;D;100;1;2016-10-03;2016-10-04;2016-10-03;03-10-2016 13:00;03-10-2016 14:00;9;68;3;3600
+70;drawingSnakeHead;D;DrawingSnakeHead;T;D;100;1;2016-10-03;2016-10-04;2016-10-03;03-10-2016 14:00;03-10-2016 15:00;9;69;3;3600
+71;attachingSnake;D;attachingSnakeHeadToBody;T;D;100;1;2016-10-03;2016-10-04;2016-10-03;03-10-2016 15:00;03-10-2016 16:00;9;70;3;3600
+72;startScreen;D;startScreenstartScreen;T;D;100;2;2016-10-04;2016-10-05;2016-10-04;04-10-2016 08:00;04-10-2016 10:00;8;71;3;7200
+73;gameIcon;D;createGameIcon;T;D;100;1;2016-10-04;2016-10-05;2016-10-04;04-10-2016 10:00;04-10-2016 10:30;1;72;3;1800
+74;score;D;addingScore;T;D;100;1;2016-10-04;2016-10-05;2016-10-04;04-10-2016 10:30;04-10-2016 11:00;1;73;3;1800
+75;pausingTheGame;D;pausingTheGamepausingTheGame;T;D;100;1;2016-10-04;2016-10-05;2016-10-04;04-10-2016 11:00;04-10-2016 12:00;8;74;3;3600
+76;winScreen;D;winScreenwinScreen;T;D;100;1;2016-10-04;2016-10-05;2016-10-04;04-10-2016 12:00;04-10-2016 13:00;8;75;3;3600
+77;sounds;D;soundssounds;St;D;100;1;2016-10-04;2016-10-05;2016-10-04;04-10-2016 13:00;04-10-2016 14:00;9;76;3;3600
+78;TestTheGame;T;testingTheGame;T;D;100;2;2016-10-04;2016-10-05;2016-10-04;04-10-2016 14:00;04-10-2016 16:00;7;77;3;7200
+79;documanentation;Do;documentationOfTheGame;St;D;100;5;2016-10-05;2016-10-06;2016-10-05;05-10-2016 08:00;05-10-2016 16:00;3;78;3;28800
+80;cahier de charge;In;cahier de chargecahier de chargecahier de charge;St;D;100;5;2016-10-10;2016-10-11;2016-10-10;10-10-2016 08:00;10-10-2016 16:00;3;0;4;28800
+81;framework;In;createBasicFramework;St;D;100;2;2016-10-11;2016-10-12;2016-10-11;11-10-2016 08:00;11-10-2016 10:00;3;80;4;7200
+82;addingAssets;D;adding assets to the scene;St;D;100;1;2016-10-11;2016-10-12;2016-10-11;11-10-2016 10:00;11-10-2016 13:00;8;81;4;10800
+83;addingPhysics;D;adding physics and colliders to objects;St;D;100;1;2016-10-11;2016-10-12;2016-10-11;11-10-2016 13:00;11-10-2016 16:00;8;82;4;10800
+84;usingPrefabs;D;using prefabs;St;D;100;1;2016-10-12;2016-10-12;2016-10-12;12-10-2016 08:00;12-10-2016 09:00;9;83;4;3600
+85;fixAssets;D;fix disappearing assets;T;D;100;1;2016-10-12;2016-10-12;2016-10-12;12-10-2016 09:00;12-10-2016 10:00;9;84;4;3600
+86;sortLayers;D;sorting layers;T;D;100;1;2016-10-12;2016-10-12;2016-10-12;12-10-2016 10:00;12-10-2016 11:00;9;85;4;3600
+87;organiseAssets;D;organising and grouping assets in the hierarchy;T;D;100;1;2016-10-12;2016-10-12;2016-10-12;12-10-2016 11:00;12-10-2016 12:00;9;86;4;3600
+88;scriptingCollision;D;scripting and collision detection;T;D;100;1;2016-10-12;2016-10-12;2016-10-12;12-10-2016 12:00;12-10-2016 14:00;9;87;4;7200
+89;movingPlayer;D;moving the player;T;D;100;1;2016-10-12;2016-10-12;2016-10-12;12-10-2016 14:00;12-10-2016 15:00;9;88;4;3600
+90;jumpPlayer;D;making the player jump;T;D;100;1;2016-10-12;2016-10-12;2016-10-12;12-10-2016 15:00;12-10-2016 16:00;9;89;4;3600
+91;changingPlayerSprite;D;changing the player sprite and setting to fixed angle;St;D;100;1;2016-10-13;2016-10-13;2016-10-13;13-10-2016 08:00;13-10-2016 11:00;8;90;4;10800
+92;createAnimation;D;create animation for the player sprite;St;D;100;1;2016-10-13;2016-10-13;2016-10-13;13-10-2016 11:00;13-10-2016 15:00;8;91;4;14400
+93;setUpPlayerAnim;D;setting up the player animation controller;St;D;100;1;2016-10-13;2016-10-13;2016-10-13;13-10-2016 15:00;13-10-2016 16:00;8;92;4;3600
+94;flipPlayer;D;fliping the player sprite ;T;D;100;1;2016-10-14;2016-10-14;2016-10-14;14-10-2016 08:00;14-10-2016 08:30;2;93;4;1800
+95;cameraFollowsPlayer;D;make the camera follow the player;St;D;100;2;2016-10-14;2016-10-14;2016-10-14;14-10-2016 08:30;14-10-2016 10:30;2;94;4;7200
+96;developPlayersMovement;D;developing the player's movement;St;D;100;3;2016-10-14;2016-10-14;2016-10-14;14-10-2016 10:30;14-10-2016 14:00;8;95;4;12600
+97;setUpDetector;D;setting up a fall detector;T;D;100;1;2016-10-14;2016-10-14;2016-10-14;14-10-2016 14:00;14-10-2016 15:00;9;96;4;3600
+98;addCheckpoints;D;adding checkpoints;T;D;100;1;2016-10-14;2016-10-14;2016-10-14;14-10-2016 15:00;14-10-2016 16:00;9;97;4;3600
+99;respawnPlayer;D;respawning the player;T;D;100;1;2016-10-15;2016-10-15;2016-10-15;15-10-2016 08:00;15-10-2016 09:00;9;98;4;3600
+100;respawnDelay;D;adding a respawn delay;T;D;100;1;2016-10-15;2016-10-15;2016-10-15;15-10-2016 09:00;15-10-2016 10:00;9;99;4;3600
+101;setUpLevel;D;setting up the level manager;St;D;100;2;2016-10-15;2016-10-15;2016-10-15;15-10-2016 10:00;15-10-2016 12:00;9;100;4;7200
+102;particleSystem;D;adding a particle system;St;D;100;2;2016-10-15;2016-10-15;2016-10-15;15-10-2016 12:00;15-10-2016 14:00;8;101;4;7200
+103;collectiblesAndScroring;D;adding collectibles and scoring;St;D;100;2;2016-10-15;2016-10-15;2016-10-15;15-10-2016 14:00;15-10-2016 16:00;8;102;4;7200
+104;displayScore;D;adding a UI to display the score;St;D;100;1;2016-10-16;2016-10-16;2016-10-16;16-10-2016 08:00;16-10-2016 09:30;8;103;4;5400
+105;testingApp;T;testingTheGame;St;D;100;3;2016-10-16;2016-10-16;2016-10-16;16-10-2016 09:30;16-10-2016 16:00;10;104;4;23400
+106;documentation;Do;documentationOfTheGame;St;D;100;5;2016-10-16;2016-10-16;2016-10-16;16-10-2016 09:30;16-10-2016 16:00;2;105;4;23400
+107;cahier de charge;In;cahier de chargecahier de chargecahier de charge;St;D;100;5;2016-10-25;2016-10-25;2016-10-25;25-10-2016 08:00;25-10-2016 16:00;1;0;5;28800
+108;framework;In;createBasicFramework;St;D;100;5;2016-10-26;2016-10-26;2016-10-26;26-10-2016 08:00;26-10-2016 16:00;1;107;5;28800
+109;createObjects;D;creating objects;St;D;100;2;2016-10-27;2016-10-27;2016-10-27;27-10-2016 08:00;27-10-2016 11:00;8;108;5;10800
+110;movingObjects;D;moving objects;St;D;100;2;2016-10-27;2016-10-27;2016-10-27;27-10-2016 11:00;27-10-2016 14:00;8;109;5;10800
+111;cameraFollowsObjects;D;camera follows objects;St;D;100;2;2016-10-27;2016-10-27;2016-10-27;27-10-2016 14:00;27-10-2016 16:00;4;110;5;7200
+112;collision;D;collisionCollision;T;D;100;1;2016-10-28;2016-10-28;2016-10-28;28-10-2016 08:00;28-10-2016 09:00;4;111;5;3600
+113;gamePlay;D;gamePlayGamePlay;T;D;100;1;2016-10-28;2016-10-28;2016-10-28;28-10-2016 09:00;28-10-2016 10:00;4;112;5;3600
+114;score&UI;D;score and UI;T;D;100;1;2016-10-28;2016-10-28;2016-10-28;28-10-2016 10:00;28-10-2016 11:00;5;113;5;3600
+115;gameOver;D;gameOverFunctionality;T;D;100;1;2016-10-28;2016-10-28;2016-10-28;28-10-2016 11:00;28-10-2016 12:00;5;114;5;3600
+116;winningLevel;D;winningLevel;T;D;100;1;2016-10-28;2016-10-28;2016-10-28;28-10-2016 11:00;28-10-2016 12:00;5;115;5;3600
+117;finishUp;D;finishingUp;T;D;100;1;2016-10-28;2016-10-28;2016-10-28;28-10-2016 12:00;28-10-2016 13:00;9;116;5;3600
+118;smoothCamera;D;smooth camera follow;St;D;100;1;2016-10-28;2016-10-28;2016-10-28;28-10-2016 13:00;28-10-2016 14:30;9;117;5;5400
+119;lighting;D;lightingLighting;St;D;100;1;2016-10-28;2016-10-28;2016-10-28;28-10-2016 14:30;28-10-2016 16:00;9;118;5;5400
+120;inputController;D;input controller;St;D;100;2;2016-10-29;2016-10-29;2016-10-29;29-10-2016 08:00;29-10-2016 10:00;8;119;5;7200
+121;movement;D;Top Down movement;St;D;100;2;2016-10-29;2016-10-29;2016-10-29;29-10-2016 10:00;29-10-2016 13:00;8;120;5;10800
+122;shooting;D;Top Down shooting;St;D;100;2;2016-10-29;2016-10-29;2016-10-29;29-10-2016 13:00;29-10-2016 16:00;8;121;5;10800
+123;testingApp;T;testingTheGame;St;D;100;5;2016-10-30;2016-10-30;2016-10-30;30-10-2016 08:00;30-10-2016 16:00;7;122;5;28800
+124;documentation;Do;documentationOfTheGame;St;D;100;3;2016-10-31;2016-10-31;2016-10-31;31-10-2016 08:00;31-10-2016 16:00;9;123;5;28800
+125;cahier de charge;In;cahier de chargecahier de chargecahier de charge;St;D;100;5;2016-11-05;2016-11-05;2016-11-05;05-11-2016 08:00;05-11-2016 16:00;2;0;6;28800
+126;framework;In;createBasicFramework;St;D;100;5;2016-11-06;2016-11-06;2016-11-06;06-11-2016 08:00;06-11-2016 16:00;2;126;6;28800
+127;player;D;create Player;St;D;100;3;2016-11-07;2016-11-07;2016-11-07;07-11-2016 08:00;07-11-2016 12:00;8;127;6;14400
+128;playerMovement;D;player movement and animation;St;D;100;2;2016-11-07;2016-11-07;2016-11-07;07-11-2016 12:00;07-11-2016 16:00;8;128;6;14400
+129;grounds;D;designing Grounds;St;D;100;2;2016-11-08;2016-11-08;2016-11-08;08-11-2016 08:00;08-11-2016 12:00;8;129;6;14400
+130;camera;D;moving camera;St;D;100;2;2016-11-08;2016-11-08;2016-11-08;08-11-2016 12:00;08-11-2016 16:00;8;130;6;14400
+131;generate grounds;D;generating endless grounds;St;D;100;2;2016-11-09;2016-11-09;2016-11-09;09-11-2016 08:00;09-11-2016 12:00;8;131;6;14400
+132;destroy grounds;D;destroying grounds;St;D;100;2;2016-11-09;2016-11-09;2016-11-09;09-11-2016 12:00;09-11-2016 14:00;9;132;6;7200
+133;player jump;D;playerJump;St;D;100;2;2016-11-09;2016-11-09;2016-11-09;09-11-2016 14:00;09-11-2016 16:00;9;133;6;7200
+134;gaps;D;adding gaps between grounds;St;D;100;2;2016-11-10;2016-11-10;2016-11-10;10-11-2016 08:00;10-11-2016 10:00;5;134;6;7200
+135;spawningCoins;D;spawning coins;St;D;100;2;2016-11-10;2016-11-10;2016-11-10;10-11-2016 10:00;10-11-2016 12:00;5;135;6;7200
+136;pickingcoins;D;picking coins;St;D;100;2;2016-11-10;2016-11-10;2016-11-10;10-11-2016 12:00;10-11-2016 14:00;5;136;6;7200
+137;scroll background;D;scrolling background;St;D;100;2;2016-11-10;2016-11-10;2016-11-10;10-11-2016 14:00;10-11-2016 16:00;5;137;6;7200
+138;sounds;D;adding sounds;St;D;100;2;2016-11-11;2016-11-11;2016-11-11;11-11-2016 08:00;11-11-2016 10:00;5;138;6;7200
+139;score;D;score manager;St;D;100;2;2016-11-11;2016-11-11;2016-11-11;11-11-2016 10:00;11-11-2016 12:00;5;139;6;7200
+140;palyer speed;D;increasing player speed;St;D;100;2;2016-11-11;2016-11-11;2016-11-11;11-11-2016 12:00;11-11-2016 14:00;4;140;6;7200
+141;game over;D;game over;St;D;100;2;2016-11-11;2016-11-11;2016-11-11;11-11-2016 14:00;11-11-2016 16:00;4;141;6;7200
+142;testingApp;T;testingTheGame;St;D;100;5;2016-11-12;2016-11-12;2016-11-12;12-11-2016 08:00;12-11-2016 16:00;7;142;6;28800
+143;documentation;Do;documentationOfTheGame;St;D;100;5;2016-11-13;2016-11-13;2016-11-13;13-11-2016 08:00;13-11-2016 16:00;4;143;6;28800
+144;cahier de charge;In;cahier de chargecahier de chargecahier de charge;St;D;100;5;2016-11-20;2016-11-20;2016-11-20;20-11-2016 08:00;20-11-2016 16:00;3;0;7;28800
+145;framework;In;createBasicFramework;St;D;100;5;2016-11-21;2016-11-21;2016-11-21;21-11-2016 08:00;21-11-2016 16:00;3;144;7;28800
+146;set up project;In;setting up the project;St;D;100;2;2016-11-21;2016-11-21;2016-11-21;21-11-2016 08:00;21-11-2016 10:00;3;145;7;7200
+147;create AVD;D;create a custom AVD;St;D;100;2;2016-11-21;2016-11-21;2016-11-21;21-11-2016 10:00;21-11-2016 12:00;2;146;7;7200
+148;Activity state;D;activity state;St;D;100;2;2016-11-21;2016-11-21;2016-11-21;21-11-2016 12:00;21-11-2016 14:00;2;147;7;7200
+149;state change;D;running the state changing;St;D;100;2;2016-11-21;2016-11-21;2016-11-21;21-11-2016 14:00;21-11-2016 16:00;1;148;7;7200
+150;userInterface;D;designing user interface;St;D;100;2;2016-11-22;2016-11-22;2016-11-22;22-11-2016 08:00;22-11-2016 10:30;8;149;7;9000
+151;widgets;D;adding properties to widgets;St;D;100;2;2016-11-22;2016-11-22;2016-11-22;22-11-2016 10:30;22-11-2016 13:00;8;150;7;9000
+152;Dip to pixel;D;converting DIP to pixel;T;D;100;1;2016-11-22;2016-11-22;2016-11-22;22-11-2016 13:00;22-11-2016 14:00;1;151;7;3600
+153;gridLayout;D;GridLayout;T;D;100;1;2016-11-22;2016-11-22;2016-11-22;22-11-2016 14:00;22-11-2016 15:00;8;152;7;3600
+154;event handler;D;handling event;T;D;100;1;2016-11-22;2016-11-22;2016-11-22;22-11-2016 15:00;22-11-2016 16:00;8;153;7;3600
+155;event listener;D;event listener and callback method;T;D;100;1;2016-11-23;2016-11-23;2016-11-23;23-11-2016 08:00;23-11-2016 09:00;8;154;7;3600
+156;multiple event listener;D;multiple event listener;T;D;100;1;2016-11-23;2016-11-23;2016-11-23;23-11-2016 09:00;23-11-2016 10:00;8;155;7;3600
+157;gestures;D;gesturesGestures;T;D;100;1;2016-11-23;2016-11-23;2016-11-23;23-11-2016 10:00;23-11-2016 11:00;9;156;7;3600
+158;fragment;D;designing fragment;St;D;100;1;2016-11-23;2016-11-23;2016-11-23;23-11-2016 11:00;23-11-2016 16:00;9;157;7;18000
+159;button clicks;D;listening for button clicks;T;D;100;2;2016-11-24;2016-11-24;2016-11-24;24-11-2016 08:00;24-11-2016 11:00;8;158;7;10800
+160;animations;D;animations and transitions;St;D;100;4;2016-11-24;2016-11-24;2016-11-24;24-11-2016 11:00;24-11-2016 12:30;3;159;7;5400
+161;intents;D;send intents;St;D;100;3;2016-11-24;2016-11-24;2016-11-24;24-11-2016 12:30;24-11-2016 16:00;6;160;7;12600
+162;Threads;D;thread handler;St;D;100;3;2016-11-25;2016-11-25;2016-11-25;25-11-2016 08:00;25-11-2016 11:00;6;161;7;10800
+163;services;D;bound services;St;D;100;3;2016-11-25;2016-11-25;2016-11-25;25-11-2016 11:00;25-11-2016 14:00;6;162;7;10800
+164;listview;D;listview;St;D;100;1;2016-11-25;2016-11-25;2016-11-25;25-11-2016 14:00;25-11-2016 15:00;7;163;7;3600
+165;create database;D;create database;St;D;100;1;2016-11-25;2016-11-25;2016-11-25;25-11-2016 15:00;25-11-2016 16:00;4;164;7;3600
+166;crud product;D;create read update delete products;St;D;100;3;2016-11-26;2016-11-26;2016-11-26;26-11-2016 08:00;26-11-2016 11:00;6;165;7;10800
+167;testing database;D;testing database;T;D;100;3;2016-11-26;2016-11-26;2016-11-26;26-11-2016 11:00;26-11-2016 16:00;10;166;7;18000
+168;testingApp;T;testingTheGame;St;D;100;5;2016-11-27;2016-11-27;2016-11-27;27-11-2016 08:00;27-11-2016 16:00;7;167;7;28800
+169;documentation;Do;documentationOfTheGame;St;D;100;5;2016-11-28;2016-11-28;2016-11-28;28-11-2016 08:00;28-11-2016 16:00;4;168;7;28800
