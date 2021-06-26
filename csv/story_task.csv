@@ -198,3 +198,63 @@
 197;testing database;D;testing database;T;D;100;3;07/12/2016;07/12/2016;07/12/2016;07/12/2016 11:00;07/12/2016 16:00;10;8;18000
 198;testingApp;T;testingTheGame;St;D;100;5;08/12/2016;08/12/2016;08/12/2016;08/12/2016 08:00;08/12/2016 16:00;7;8;28800
 199;documentation;Do;documentationOfTheGame;St;D;100;5;09/12/2016;09/12/2016;09/12/2016;09/12/2016 08:00;09/12/2016 16:00;1;8;28800
+200;cahier de charge;In;cahier de chargecahier de chargecahier de charge;St;D;100;5;15/06/2016;16/06/2016;15/06/2016;15/06/2016 08:00;15/06/2016 16:00;11;9;28800
+201;templateDesign;In;templateDesigntemplateDesigntemplateDesign;St;D;100;5;16/06/2016;17/06/2016;16/06/2016;16/06/2016 08:00;16/06/2016 16:00;11;9;28800
+202;file Setup;D;file Setupfile Setupfile Setupfile Setup;St;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 08:00;17/06/2016 08:30;11;9;1800
+203;headerDesign;D;headerDesignheaderDesignheaderDesignheaderDesign;St;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 08:30;17/06/2016 09:30;12;9;3600
+204;headerHTML;D;headerHTMLheaderHTMLheaderHTMLheaderHTML;T;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 09:30;17/06/2016 10:00;12;9;1800
+205;headerCSS;D;headerCSSheaderCSSheaderCSSheaderCSS;T;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 10:00;17/06/2016 10:30;12;9;1800
+206;footerDesign;D;footerDesignfooterDesignfooterDesignfooterDesign;St;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 10:30;17/06/2016 11:30;14;9;3600
+207;footerHTML;D;footerHTMLfooterHTMLfooterHTMLfooterHTML;T;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 11:30;17/06/2016 12:00;14;9;1800
+208;footerCSS;D;footerCSSfooterCSSfooterCSSfooterCSS;T;D;100;1;17/06/2016;18/06/2016;17/06/2016;17/06/2016 12:00;17/06/2016 12:30;14;9;1800
+209;landingPage;D;landingPagelandingPagelandingPage;St;D;100;3;17/06/2016;18/06/2016;17/06/2016;17/06/2016 12:30;17/06/2016 16:00;14;9;12600
+210;aboutUsPage;D;aboutUsPageaboutUsPageaboutUsPage;St;D;100;3;18/06/2016;19/06/2016;18/06/2016;18/06/2016 08:00;18/06/2016 11:00;12;9;10800
+211;contactUsPage;D;contactUsPagecontactUsPagecontactUsPage;St;D;100;3;18/06/2016;19/06/2016;18/06/2016;18/06/2016 11:00;18/06/2016 14:00;12;9;10800
+212;contactUSForm;T;contactUsFormcontactUsFormcontactUsForm;T;D;100;1;18/06/2016;19/06/2016;18/06/2016;18/06/2016 14:00;18/06/2016 14:30;13;9;1800
+213;addBlogPostPage;D;addBlogPostPageaddBlogPostPage;T;D;100;2;18/06/2016;19/06/2016;18/06/2016;18/06/2016 14:30;18/06/2016 16:00;15;9;5400
+214;modifyBlogPost;D;modifyBlogPostmodifyBlogPost;T;D;100;1;19/06/2016;20/06/2016;19/06/2016;19/06/2016 08:00;19/06/2016 10:00;15;9;7200
+215;deleteBlogPost;D;deleteBlogPostPagedeleteBlogPost;T;D;100;1;19/06/2016;20/06/2016;19/06/2016;19/06/2016 10:00;19/06/2016 12:00;15;9;7200
+216;orderBlogPost;D;ordereBlogPostPageorderBlogPost;T;D;100;1;19/06/2016;20/06/2016;19/06/2016;19/06/2016 12:00;19/06/2016 14:00;15;9;7200
+217;userLogin;D;userLoginuserLoginuserLogin;St;D;100;1;19/06/2016;20/06/2016;19/06/2016;19/06/2016 14:00;19/06/2016 14:30;14;9;1800
+218;addBlogCategoryPage;D;addBlogCategoryPageaddBlogCategoryPage;T;D;100;3;19/06/2016;20/06/2016;19/06/2016;19/06/2016 14:30;19/06/2016 16:00;13;9;5400
+219;modifyBlogCategory;D;modifyBlogCategorymodifyBlogCategory;T;D;100;3;20/06/2016;21/06/2016;20/06/2016;20/06/2016 08:00;20/06/2016 10:00;13;9;7200
+220;deleteBlogCategory;D;deleteBlogCategoryPagedeleteBlogCategory;T;D;100;3;20/06/2016;21/06/2016;20/06/2016;20/06/2016 10:00;20/06/2016 12:00;13;9;7200
+221;orderBlogCategory;D;ordereBlogCategoryPageorderBlogCategory;T;D;100;3;20/06/2016;21/06/2016;20/06/2016;20/06/2016 12:00;20/06/2016 14:00;13;9;7200
+222;slugifyCategoryPage;D;slugifyCategoryPageslugifyCategoryPage;T;D;100;3;20/06/2016;21/06/2016;20/06/2016;20/06/2016 14:00;20/06/2016 14:30;13;9;1800
+223;createLikeButton;D;createLikeButtoncreateLikeButton;T;D;100;2;20/06/2016;21/06/2016;20/06/2016;20/06/2016 14:30;20/06/2016 15:00;14;9;1800
+224;createUnlikeButton;D;createUnlikeButtoncreateUnlikeButton;T;D;100;1;20/06/2016;21/06/2016;20/06/2016;20/06/2016 15:00;20/06/2016 15:30;14;9;1800
+225;addBlogComment;D;addBlogCommentaddBlogComment;T;D;100;1;20/06/2016;21/06/2016;20/06/2016;20/06/2016 15:30;20/06/2016 16:00;15;9;1800
+226;modifyBlogComment;D;modifyBlogCommentmodifyBlogComment;T;D;100;2;21/06/2016;22/06/2016;21/06/2016;21/06/2016 08:00;21/06/2016 08:30;13;9;1800
+227;deleteBlogComment;D;deleteBlogCommentPagedeleteBlogComment;T;D;100;2;21/06/2016;22/06/2016;21/06/2016;21/06/2016 08:30;21/06/2016 09:00;13;9;1800
+228;addBlogProfilePage;D;addBlogProfilePageaddBlogProfilePage;T;D;100;2;21/06/2016;22/06/2016;21/06/2016;21/06/2016 09:00;21/06/2016 10:00;13;9;3600
+229;modifyBlogProfile;D;modifyBlogProfilemodifyBlogProfile;T;D;100;2;21/06/2016;22/06/2016;21/06/2016;21/06/2016 10:00;21/06/2016 11:00;12;9;3600
+230;deleteBlogProfile;D;deleteBlogProfilePagedeleteBlogProfile;T;D;100;2;21/06/2016;22/06/2016;21/06/2016;21/06/2016 11:00;21/06/2016 12:00;12;9;3600
+231;blogPostTest;T;blogPostTestblogPostTestblogPostTest;St;D;100;5;21/06/2016;22/06/2016;21/06/2016;21/06/2016 12:00;21/06/2016 16:00;16;9;14400
+232;cahier de charge;In;cahier de chargecahier de chargecahier de charge;St;D;100;5;22/06/2016;22/06/2016;22/06/2016;22/06/2016 08:00;22/06/2016 16:00;11;10;28800
+233;templateDesign;In;templateDesigntemplateDesigntemplateDesign;St;D;100;5;23/06/2016;23/06/2016;23/06/2016;23/06/2016 08:00;23/06/2016 16:00;11;10;28800
+234;file Setup;D;file Setupfile Setupfile Setupfile Setup;St;D;100;3;24/06/2016;24/06/2016;24/06/2016;24/06/2016 08:00;24/06/2016 08:30;11;10;1800
+235;headerDesign;D;headerDesignheaderDesignheaderDesignheaderDesign;T;D;100;3;24/06/2016;24/06/2016;24/06/2016;24/06/2016 08:30;24/06/2016 09:30;12;10;3600
+236;headerHTML;D;headerHTMLheaderHTMLheaderHTMLheaderHTML;T;D;100;2;24/06/2016;24/06/2016;24/06/2016;24/06/2016 09:30;24/06/2016 10:00;12;10;1800
+237;headerCSS;D;headerCSSheaderCSSheaderCSSheaderCSS;T;D;100;2;24/06/2016;24/06/2016;24/06/2016;24/06/2016 10:00;24/06/2016 10:30;12;10;1800
+238;footerDesign;D;footerDesignfooterDesignfooterDesignfooterDesign;T;D;100;3;24/06/2016;24/06/2016;24/06/2016;24/06/2016 10:30;24/06/2016 11:30;12;10;3600
+239;footerHTML;D;footerHTMLfooterHTMLfooterHTMLfooterHTML;T;D;100;2;24/06/2016;24/06/2016;24/06/2016;24/06/2016 11:30;24/06/2016 12:00;12;10;1800
+240;footerCSS;D;footerCSSfooterCSSfooterCSSfooterCSS;T;D;100;2;24/06/2016;24/06/2016;24/06/2016;24/06/2016 12:00;24/06/2016 12:30;12;10;1800
+241;categoriesSection;D;categoriesSectioncategoriesSectioncategoriesSection;St;D;100;4;24/06/2016;24/06/2016;24/06/2016;24/06/2016 12:30;24/06/2016 16:00;12;10;12600
+242;addingProducts;D;addingProductsaddingProductsaddingProductsaddingProducts;T;D;100;1;25/06/2016;25/06/2016;25/06/2016;25/06/2016 08:00;25/06/2016 08:30;14;10;3600
+243;viewProducts;D;viewProductsviewProductsviewProducts;T;D;100;1;25/06/2016;25/06/2016;25/06/2016;25/06/2016 08:30;25/06/2016 09:00;14;10;1800
+244;modifyProducts;D;modifyProductsmodifyProductsmodifyProducts;T;D;100;1;25/06/2016;25/06/2016;25/06/2016;25/06/2016 09:00;25/06/2016 09:30;14;10;1800
+245;deleteProducts;D;deleteProductsdeleteProductsdeleteProducts;T;D;100;1;25/06/2016;25/06/2016;25/06/2016;25/06/2016 09:30;25/06/2016 10:00;14;10;1800
+246;testimonialSection;D;testimonialSectiontestimonialSectiontestimonialSection;T;D;100;1;25/06/2016;25/06/2016;25/06/2016;25/06/2016 10:00;25/06/2016 12:00;14;10;7200
+247;signUpPageDesign;D;signUpPageDesignsignUpPageDesignsignUpPageDesign;T;D;100;2;25/06/2016;25/06/2016;25/06/2016;25/06/2016 12:00;25/06/2016 13:00;12;10;3600
+248;signUpForm;D;signUpFormsignUpFormsignUpFormsignUpForm;T;D;100;2;25/06/2016;25/06/2016;25/06/2016;25/06/2016 13:00;25/06/2016 14:00;13;10;3600
+249;signInPageDesign;D;signInPageDesignsignInPageDesignsignInPageDesign;T;D;100;1;25/06/2016;25/06/2016;25/06/2016;25/06/2016 14:00;25/06/2016 15:00;14;10;3600
+250;signInForm;D;signInFormsignInFormsignInForm;T;D;100;1;25/06/2016;25/06/2016;25/06/2016;25/06/2016 15:00;25/06/2016 16:00;14;10;3600
+251;shop Setup;D;shop Setupshop Setupshop Setupshop Setup;St;D;100;3;26/06/2016;26/06/2016;26/06/2016;26/06/2016 08:00;26/06/2016 11:00;13;10;10800
+252;addToCart;D;addToCartaddToCartaddToCartaddToCart;T;D;100;3;26/06/2016;26/06/2016;26/06/2016;26/06/2016 11:00;26/06/2016 13:00;13;10;7200
+253;removeFromCart;D;removeFromCartremoveFromCartremoveFromCart;T;D;100;3;26/06/2016;26/06/2016;26/06/2016;26/06/2016 13:00;26/06/2016 13:30;13;10;1800
+254;wishList;D;wishListwishListwishList;St;D;100;3;26/06/2016;26/06/2016;26/06/2016;26/06/2016 13:30;26/06/2016 16:00;13;10;9000
+255;customerOrder;D;customerOrdercustomerOrder;St;D;100;3;27/06/2016;27/06/2016;27/06/2016;27/06/2016 08:00;27/06/2016 11:00;13;10;10800
+256;paymentSetting;D;paymentSettingpaymentSettingpaymentSetting;St;D;100;3;27/06/2016;27/06/2016;27/06/2016;27/06/2016 11:00;27/06/2016 14:00;13;10;10800
+257;adminLoginLogout;D;adminLoginLogoutadminLoginLogout;St;D;100;2;27/06/2016;27/06/2016;27/06/2016;27/06/2016 14:00;27/06/2016 16:00;14;10;7200
+258;adminDashboard;D;adminDashboardadminDashboard;St;D;100;4;28/06/2016;28/06/2016;28/06/2016;28/06/2016 08:00;28/06/2016 11:00;13;10;10800
+259;documentation;Do;documentationOfThewebsite;St;D;100;5;28/06/2016;28/06/2016;28/06/2016;28/06/2016 11:00;28/06/2016 16:00;12;10;18000
